@@ -1,1 +1,1 @@
-# epidemic-propagation-networks
+# Epidemic-Propagation-Networks
