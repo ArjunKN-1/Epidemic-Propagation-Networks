@@ -1,1 +1,1 @@
-# Social-Netwrok
+# epidemic-propagation-networks
